@@ -5,7 +5,7 @@ $(document).ready(function() {
   });
 
   $(".clickable-dog").click(function() {
-    $("#dog-hide").toggle();
-    $("#dog-show").toggle();
+    $("#dog-hide").fadeToggle();
+    $("#dog-show").fadeToggle();
   });
 });
