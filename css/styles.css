@@ -20,8 +20,8 @@
   color: #0088cc;
 }
 
-#zoo-slide:hover {
-  text-decoration: underline;
+#zoo-slide {
+  display:none;
 }
 
 .clickable-firstzoo {
