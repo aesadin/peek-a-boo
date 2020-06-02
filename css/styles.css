@@ -10,3 +10,16 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+#dog-show {
+  display:none;
+}
+
+.clickable-dog {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-dog:hover {
+  text-decoration: underline;
+}
