@@ -20,6 +20,15 @@
   color: #0088cc;
 }
 
-.clickable-dog:hover {
+#zoo-slide:hover {
+  text-decoration: underline;
+}
+
+.clickable-firstzoo {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable-firstzoo {
   text-decoration: underline;
 }
